@@ -1,4 +1,4 @@
-import Interfaces.*;
+import interfaces.*;
 
 public class ClasseTeste {
 

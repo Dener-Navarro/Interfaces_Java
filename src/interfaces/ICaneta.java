@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 
 public interface ICaneta {
     public void escrever(String texto);

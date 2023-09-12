@@ -1,6 +1,6 @@
-package Interfaces.Abstratas;
+package abstratas;
 
-import Interfaces.Comissionado;
+import interfaces.Comissionado;
 
 public class Programa {
     public static void main(String args[]) {

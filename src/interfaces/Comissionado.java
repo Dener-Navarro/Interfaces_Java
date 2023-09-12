@@ -1,6 +1,6 @@
-package Interfaces;
+package interfaces;
 
-import Interfaces.Abstratas.Empregado;
+import abstratas.Empregado;
 
 public class Comissionado extends Empregado {
 

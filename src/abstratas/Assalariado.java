@@ -1,4 +1,4 @@
-package Interfaces.Abstratas;
+package abstratas;
 
 public class Assalariado extends Empregado {
 
